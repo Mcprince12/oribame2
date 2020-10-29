@@ -1,0 +1,19 @@
+h1{
+    color: gold;
+}
+
+.information{
+    background-color: lightgreen;
+    display:flex;
+    justify-content: space-between;
+}
+
+.info{
+    background-color: lightskyblue;
+    display:flex;
+    justify-content: space-between;
+}
+
+*{
+    background-color: lightblue;
+}
